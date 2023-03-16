@@ -1,3 +1,3 @@
 # InstagramClone
 Patika.dev için Instagram Klonu
-![](https://s2.gifyu.com/images/Instagramclone.gif)
+![](https://github.com/Igorein/InstagramClone/blob/main/assets/Instagramclone.gif)
